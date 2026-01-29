@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/解决方案项/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="GenshinHelperResources/GenshinHelperResources.csproj" />
   <Project Path="MillistraWonderlandImportAssistant/MillistraWonderlandImportAssistant.csproj" />
 </Solution>
