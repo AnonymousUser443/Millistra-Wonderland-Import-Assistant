@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GenshinHelperResources/GenshinHelperResources.csproj" />
+  <Project Path="MillistraWonderlandImportAssistant/MillistraWonderlandImportAssistant.csproj" />
+</Solution>

@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\GIAFile.ico" />
+    <None Remove="Resources\GIAFileIcon-256x256.png" />
+    <None Remove="Resources\GIAFileIcon-64x64.png" />
+    <None Remove="Resources\GILFile.ico" />
+    <None Remove="Resources\GILFileIcon-256x256.png" />
+    <None Remove="Resources\GILFileIcon-64x64.png" />
+    <None Remove="Resources\GIPFile.ico" />
+    <None Remove="Resources\GIPFileIcon-256x256.png" />
+    <None Remove="Resources\GIPFileIcon-64x64.png" />
+    <None Remove="Resources\GIRFile.ico" />
+    <None Remove="Resources\GIRFileIcon-256x256.png" />
+    <None Remove="Resources\GIRFileIcon-64x64.png" />
+    <None Remove="Resources\MainProgramLogo-128x128.png" />
+    <None Remove="Resources\MainProgramLogo-256x256.png" />
+    <None Remove="Resources\MainProgramLogo-64x64.png" />
+    <None Remove="Resources\ToastIcon-StatusError.png" />
+    <None Remove="Resources\ToastIcon-StatusPuzzled.png" />
+    <None Remove="Resources\ToastIcon-StatusSuccess.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\GIAFile.ico" />
+    <EmbeddedResource Include="Resources\GIAFileIcon-256x256.png" />
+    <EmbeddedResource Include="Resources\GIAFileIcon-64x64.png" />
+    <EmbeddedResource Include="Resources\GILFile.ico" />
+    <EmbeddedResource Include="Resources\GILFileIcon-256x256.png" />
+    <EmbeddedResource Include="Resources\GILFileIcon-64x64.png" />
+    <EmbeddedResource Include="Resources\GIPFile.ico" />
+    <EmbeddedResource Include="Resources\GIPFileIcon-256x256.png" />
+    <EmbeddedResource Include="Resources\GIPFileIcon-64x64.png" />
+    <EmbeddedResource Include="Resources\GIRFile.ico" />
+    <EmbeddedResource Include="Resources\GIRFileIcon-256x256.png" />
+    <EmbeddedResource Include="Resources\GIRFileIcon-64x64.png" />
+    <EmbeddedResource Include="Resources\MainProgramLogo-128x128.png" />
+    <EmbeddedResource Include="Resources\MainProgramLogo-256x256.png" />
+    <EmbeddedResource Include="Resources\MainProgramLogo-64x64.png" />
+    <EmbeddedResource Include="Resources\ToastIcon-StatusError.png" />
+    <EmbeddedResource Include="Resources\ToastIcon-StatusPuzzled.png" />
+    <EmbeddedResource Include="Resources\ToastIcon-StatusSuccess.png" />
+  </ItemGroup>
+
+</Project>
