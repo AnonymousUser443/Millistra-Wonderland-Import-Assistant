@@ -2,8 +2,7 @@
 
 专为《原神》“千星奇域”模式设计的关卡导入与管理工具。
 
-![Logo](https://github.com/你的用户名/仓库名/blob/main/Resources/MainProgramLogo-256x256.png?raw=true)
-*(你可以把 Logo 图片上传到仓库里然后引用它)*
+![Logo](https://github.com/AnonymousUser443/Millistra-Wonderland-Import-Assistant/blob/main/Resources/MainProgramLogo-256x256.png?raw=true)
 
 ## ✨ 功能特点
 
